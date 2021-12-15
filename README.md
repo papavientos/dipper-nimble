@@ -1,2 +1,2 @@
 # dipper-nimble
-CMR analysis of dipper dataset into NIMBLE.
+CMR analysis of dipper dataset in NIMBLE.
