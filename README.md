@@ -6,7 +6,7 @@ In this repository you will find a R script which includes the code to conduct B
 This script contains a great variety of models. This has served me as insightful exercise to know how to specify different models and to check if I was doing it right for my own data analysis. I think most of its content is right but I am currently learning, so there may be errors. Please, don't doubt and contact me if you spot any! 
 
 
-
+https://htmlpreview.github.io/?https://github.com/papavientos/dipper-nimble/blob/main/dipper-NIMBLE.html
 
 
 *de Valpine P, Turek D, Paciorek C, Anderson-Bergman C, Temple Lang D, Bodik R (2017). “Programming with models: writing statistical algorithms for general model structures with NIMBLE.” Journal of Computational and Graphical Statistics, 26, 403-413. doi: 10.1080/10618600.2016.1172487
