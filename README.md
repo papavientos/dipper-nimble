@@ -9,4 +9,4 @@ This script contains a great variety of models. This has served me as insightful
 
 
 
-*de Valpine P, Turek D, Paciorek C, Anderson-Bergman C, Temple Lang D, Bodik R (2017). “Programming with models: writing statistical algorithms for general model structures with NIMBLE.” Journal of Computational and Graphical Statistics, 26, 403-413. doi: 10.1080/10618600.2016.1172487 [AÃ±adir un tÃ­tulo al proyecto de Citavi utilizando este DOI] . 
+*de Valpine P, Turek D, Paciorek C, Anderson-Bergman C, Temple Lang D, Bodik R (2017). “Programming with models: writing statistical algorithms for general model structures with NIMBLE.” Journal of Computational and Graphical Statistics, 26, 403-413. doi: 10.1080/10618600.2016.1172487
